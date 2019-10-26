@@ -151,7 +151,7 @@ a.navbar-brand{
 .one{
 	position: relative;
 	height: 90vh;
-	background-image: url(../full_image_3.jpg);
+	background-image: url(full_image_3.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -352,7 +352,7 @@ div.col-lg-4.col-md-4.col-sm-4.filter.yes{
 }
 .contact{
 	height: 550px;
-	background-image: url(../map-image.png);
+	background-image: url(map-image.png);
 	background-color: black;
 	overflow-x: hidden;
 }
